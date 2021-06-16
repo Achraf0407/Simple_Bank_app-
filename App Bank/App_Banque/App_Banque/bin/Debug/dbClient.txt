@@ -1,0 +1,2 @@
+nom=Nouri , prenom=Hassan , adresse=bd Tah
+nom=chemchaq , prenom=amine , adresse=chemchaq.achraf@gmail.com
